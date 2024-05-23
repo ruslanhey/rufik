@@ -1,0 +1,50 @@
+.haha{
+    margin-left: 50px;
+    margin-top: 100px;
+    
+}
+
+.hothi{
+    display: flex;
+    gap: 60px;
+}
+
+.card-1{
+    max-width: 200px;
+    background-color: rgb(78, 78, 78);
+    padding: 10px 10px 10px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+
+.card-2{
+    max-width: 200px;
+    background-color: rgb(78, 78, 78);
+    padding: 10px 10px 10px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+
+.card-3{
+    max-width: 200px;
+    background-color: rgb(78, 78, 78);
+    padding: 10px 10px 10px;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+
+.hoh-vae{
+    display: flex;
+}
+
+footer{
+    margin-top: 100px;
+}
+
+.hoh-ol{
+    margin-left: 700px;
+}
+
